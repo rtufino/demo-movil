@@ -4,4 +4,5 @@
     <string name="btnExplicito">Intent Explícito</string>
     <string name="btnImplicito">Intent Implícito</string>
     <string name="txtImagen">Logo de la EPN</string>
+    <string name="txtAcerca">Rodrigo Tufiño</string>
 </resources>
