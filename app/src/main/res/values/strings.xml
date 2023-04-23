@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Clase Demostrativa EPN</string>
-    <string name="hola_mami_baby">Hola Mami Baby!</string>
+    <string name="mensaje">Prueba de Intents</string>
+    <string name="btnExplicito">Intent Explícito</string>
+    <string name="btnImplicito">Intent Implícito</string>
+    <string name="txtImagen">Logo de la EPN</string>
 </resources>
